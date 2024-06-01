@@ -1,0 +1,47 @@
+Kode Daftar Makanan Harga/250gram Jumlah Barang Total
+2.0 Kripik Ubi 10000.0 3.0 30000.0
+3.0 Emping Jagung 8000.0 4.0 32000.0
+5.0 Sale Pisang 12000.0 3.0 36000.0
+7.0 Getuk Lindri 10000.0 8.0 80000.0
+10.0 Kripik Sagu 12000.0 2.0 24000.0
+Tanggal 2022-12-08 13:13:50.451334  Total Harga 202000.0
+Kode Daftar Makanan Harga/250gram Jumlah Barang Total
+3.0 Emping Jagung 8000.0 4.0 32000.0
+2.0 Kripik Ubi 10000.0 5.0 50000.0
+4.0 Jagung Marning 8000.0 6.0 48000.0
+Tanggal 2022-12-08 13:14:07.095738  Total Harga 130000.0
+Kode Daftar Makanan Harga/250gram Jumlah Barang Total
+6.0 Kripik Pisang 10000.0 4.0 40000.0
+Tanggal 2022-12-09 08:44:41.372084  Total Harga 40000.0
+Kode Daftar Makanan Harga/250gram Jumlah Barang Total
+3.0 Emping Jagung 8000.0 4.0 32000.0
+Tanggal 2022-12-09 08:44:59.292499  Total Harga 32000.0
+Kode Daftar Makanan Harga/250gram Jumlah Barang Total
+3.0 Emping Jagung 8000.0 4.0 32000.0
+2.0 Kripik Ubi 10000.0 3.0 30000.0
+Tanggal 2022-12-09 08:47:36.991742  Total Harga 62000.0
+Kode Daftar Makanan Harga/250gram Jumlah Barang Total
+3.0 Emping Jagung 8000.0 4.0 32000.0
+2.0 Kripik Ubi 10000.0 5.0 50000.0
+Tanggal 2022-12-09 08:51:35.386039  Total Harga 82000.0
+Kode Daftar Makanan Harga/250gram Jumlah Barang Total
+3.0 Emping Jagung 8000.0 5.0 40000.0
+4.0 Jagung Marning 8000.0 6.0 48000.0
+Tanggal 2022-12-09 08:57:01.307054  Total Harga 88000.0
+Kode Daftar Makanan Harga/250gram Jumlah Barang Total
+1.0 Kripik Kentang 12000.0 4.0 48000.0
+Tanggal 2022-12-09 08:57:36.674534  Total Harga 48000.0
+Kode Daftar Makanan Harga/250gram Jumlah Barang Total
+1.0 Kripik Kentang 12000.0 10.0 120000.0
+13.0 Kripik Singkong 10000.0 6.0 60000.0
+2.0 Kripik Ubi 10000.0 4.0 40000.0
+Tanggal 2022-12-09 09:11:02.696482  Total Harga 220000.0
+Kode Daftar Makanan Harga/250gram Jumlah Barang Total
+2.0 Kripik Ubi 10000.0 4.0 40000.0
+4.0 Jagung Marning 8000.0 5.0 40000.0
+1.0 Kripik Kentang 12000.0 3.0 36000.0
+6.0 Kripik Pisang 10000.0 2.0 20000.0
+Tanggal 2022-12-15 08:23:11.749155  Total Harga 136000.0
+Kode Daftar Makanan Harga/250gram Jumlah Barang Total
+5.0 Sale Pisang 12000.0 6.0 72000.0
+Tanggal 2022-12-15 15:59:27.739718  Total Harga 72000.0
